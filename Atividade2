@@ -1,0 +1,64 @@
+TAG'S HTML
+
+O HTML (Hypertext Markup Language) é uma linguagem de marcação fundamental para a estruturação e exibição de conteúdo na web. As tags HTML são elementos que direcionam os navegadores sobre como interpretar e apresentar o conteúdo aos usuários. A seguir, um resumo detalhado das tags HTML mais comuns e suas funcionalidades:
+
+<!DOCTYPE>: Esta tag define o tipo de documento e a versão do HTML sendo usada. Ela é essencial para garantir a correta interpretação do documento pelo navegador.
+
+<html>: O elemento raiz que envolve todo o conteúdo da página. Todas as outras tags HTML ficam contidas dentro dessa tag.
+
+<head>: Contém metadados sobre o documento, como o título da página, a codificação de caracteres e links para folhas de estilo e scripts.
+
+<meta>: Usada para fornecer metadados sobre o documento, como a descrição da página e palavras-chave relevantes para mecanismos de busca.
+
+<title>: Define o título da página, que é exibido na aba do navegador ou em resultados de pesquisa.
+
+<link>: Utilizada para vincular recursos externos, como folhas de estilo CSS, favicons e fontes.
+
+<script>: Inclui scripts, geralmente JavaScript, para adicionar interatividade e funcionalidade à página.
+
+<style>: Contém estilos CSS que afetam o conteúdo dentro do elemento ao qual está vinculado.
+
+<body>: Contém o conteúdo visível da página, incluindo texto, imagens e outros elementos.
+
+<h1> a <h6>: Cabeçalhos de nível de títulos, onde <h1> é o maior e <h6> é o menor, usados para estruturar o conteúdo.
+
+<p>: Cria parágrafos de texto, ajudando a organizar o conteúdo textual.
+
+<a>: Cria links para outras páginas, recursos ou arquivos, permitindo a navegação entre conteúdos relacionados.
+
+<img>: Insere imagens na página, exibindo gráficos, fotos e outros elementos visuais.
+
+<ul> e <ol>: Cria listas não ordenadas (com marcadores) e ordenadas (numeradas), respectivamente.
+
+<li>: Define itens de lista dentro das tags <ul> ou <ol>, criando uma lista de elementos.
+
+<table>: Utilizada para criar tabelas, organizando dados em linhas e colunas.
+
+<tr>: Define uma linha (linha de tabela) dentro de uma tabela.
+
+<td>: Define células de dados em uma tabela, correspondendo aos elementos individuais dentro de uma linha.
+
+<th>: Define células de cabeçalho em uma tabela, representando informações de título para colunas ou linhas.
+
+<form>: Cria formulários interativos para a coleta de informações dos usuários.
+
+<input>: Gera campos de entrada de dados, como campos de texto, caixas de seleção e botões de rádio.
+
+<textarea>: Cria áreas de texto expansíveis, ideais para comentários ou informações mais longas.
+
+<button>: Gera botões interativos, que podem ser usados para enviar formulários ou ativar ações específicas.
+
+<select>: Cria menus suspensos, permitindo aos usuários escolher uma opção dentre várias.
+
+<div> e <span>: Elementos de contêiner usados para agrupar e estilizar outros elementos, contribuindo para a formatação e organização do layout.
+
+<iframe>: Incorpora conteúdo de outros sites ou fontes externas, como vídeos ou mapas.
+
+<audio> e <video>: Inclui áudio e vídeo diretamente na página, permitindo a reprodução de mídia.
+
+<canvas>: Utilizado para criar gráficos, animações e interações complexas usando JavaScript.
+Referencias: 
+Site: https://www.w3.org/standards/webdesign/htmlcss/
+Site: https://www.w3.org/TR/html52/
+Site: https://scholar.google.com/
+
